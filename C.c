@@ -42,7 +42,7 @@
 #include <unistd.h>
 
 
-#define VERSION_STR "0.06"
+#define VERSION_STR "0.06"//means VERSION_STR replaced by 0.06 in whole program 
 #define VERSION_INT_STR "0x00000500"
 
 #ifndef FILES_PER_CACHEDIR
